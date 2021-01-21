@@ -1,0 +1,16 @@
+h1 {
+    font-size: xx-large;
+    text-align: center;
+    padding-bottom: 5px;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    padding-top: 20px;
+}
+
+div {
+    padding-bottom: 5px;
+}
+
